@@ -1211,9 +1211,6 @@ span.title img {
 i {
   background: rgba(0, 0, 0, 0.15); }
 
-.sidebarContent {
-  transform: translateY(70%); }
-
 .footerProduct {
   transform: translateY(100%); }
 
@@ -1239,7 +1236,8 @@ a.brown.button:hover {
 
 .pdct-cont {
   position: relative !important;
-  display: block; }
+  display: block;
+  padding-bottom: 70%; }
 
 .pdct {
   position: absolute !important;
@@ -2760,6 +2758,12 @@ body.is-touch #banner {
 
   body, input, select, textarea {
     font-size: 12pt; }
+
+  .logo-mobile {
+    display: block; }
+
+  .logo-desktop {
+    display: none; }
 
   h2 {
     font-size: 1.5em; }
