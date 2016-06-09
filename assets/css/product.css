@@ -10,6 +10,7 @@ color: #023749 !important;
 a.button{
   color: #023749 !important;
   box-shadow: inset 0 0 0 1px #023749 !important;
+  font-size: .6em;
 }
 span.title {
     background: #fff;
