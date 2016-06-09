@@ -15,7 +15,7 @@ body.landing:before, body.landing:after {
 
 /* Banner */
 #banner:after {
-  background-color: rgba(0, 0, 0, 0.4); }
+  background-color: rgba(0, 0, 0, 0.65); }
 
 /* Footer */
 #footer .icons .icon.alt:before {

@@ -60,6 +60,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/css\/product.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/product.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/js\/ie\/html5shiv.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -132,6 +141,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/main.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/main-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/main-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/main-min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/main-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -284,7 +304,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 32707,
+		"initialSize": 3.44889e+06,
 		"inputAbbreviatedPath": "\/banner.jpg",
 		"outputAbbreviatedPath": "\/banner.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -331,9 +351,64 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.82019e+06,
+		"initialSize": 764026,
 		"inputAbbreviatedPath": "\/images\/banner.jpg",
 		"outputAbbreviatedPath": "\/images\/banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hsblue.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.88588e+06,
+		"inputAbbreviatedPath": "\/images\/hsblue.png",
+		"outputAbbreviatedPath": "\/images\/hsblue.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hsbrown.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.5623e+06,
+		"inputAbbreviatedPath": "\/images\/hsbrown.png",
+		"outputAbbreviatedPath": "\/images\/hsbrown.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hsgreen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.72099e+06,
+		"inputAbbreviatedPath": "\/images\/hsgreen.png",
+		"outputAbbreviatedPath": "\/images\/hsgreen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hsorange.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.70526e+06,
+		"inputAbbreviatedPath": "\/images\/hsorange.png",
+		"outputAbbreviatedPath": "\/images\/hsorange.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/hsred.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.70785e+06,
+		"inputAbbreviatedPath": "\/images\/hsred.png",
+		"outputAbbreviatedPath": "\/images\/hsred.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -375,7 +450,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 371281,
+		"initialSize": 282678,
 		"inputAbbreviatedPath": "\/images\/pic04.jpg",
 		"outputAbbreviatedPath": "\/images\/pic04.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -422,6 +497,17 @@
 		"initialSize": 2101,
 		"inputAbbreviatedPath": "\/images\/pic08.jpg",
 		"outputAbbreviatedPath": "\/images\/pic08.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/pic10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 371281,
+		"inputAbbreviatedPath": "\/images\/pic10.jpg",
+		"outputAbbreviatedPath": "\/images\/pic10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -473,7 +559,7 @@
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
 	"displayValue": "html5up-landed",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "harddrive_blue"
 	},
 "projectSettings": {
